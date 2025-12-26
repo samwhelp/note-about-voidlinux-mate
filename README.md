@@ -77,15 +77,11 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Mate 探索筆記](https://samwhelp.github.io/note-about-mate/) | [GitHub](https://github.com/samwhelp/note-about-mate) |
-| [Pardus Mate 探索筆記](https://samwhelp.github.io/note-about-pardus-mate/) | [GitHub](https://github.com/samwhelp/note-about-pardus-mate) |
 | [Debian Mate 探索筆記](https://samwhelp.github.io/note-about-debian-mate/) | [GitHub](https://github.com/samwhelp/note-about-debian-mate) |
-| [MxLinux Mate 探索筆記](https://samwhelp.github.io/note-about-mxlinux-mate/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-mate) |
-| [Xubuntu 探索筆記](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
+| [Ubuntu Mate 探索筆記](https://samwhelp.github.io/note-about-ubuntu-mate/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-mate) |
 | [LinuxMint Mate 探索筆記](https://samwhelp.github.io/note-about-linuxmint-mate/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-mate) |
 | [Fedora Mate 探索筆記](https://samwhelp.github.io/note-about-fedora-mate/) | [GitHub](https://github.com/samwhelp/note-about-fedora-mate) |
 | [Archlinux Mate 探索筆記](https://samwhelp.github.io/note-about-archlinux-mate/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-mate) |
-| [Manjaro Mate 探索筆記](https://samwhelp.github.io/note-about-manjaro-mate/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-mate) |
-| [Solus Mate 探索筆記](https://samwhelp.github.io/note-about-solus-mate/) | [GitHub](https://github.com/samwhelp/note-about-solus-mate) |
 
 
 
